@@ -1,0 +1,45 @@
+.outer-body{
+    margin-left: auto;
+    margin-right:auto;
+    width: 500px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blog-card{
+    background:#F1F1F1;
+    padding:25px;   
+}
+
+.blog-main-header{
+    font-size:48px;
+    color:#2E7AD3;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+.blog-secondary-header{
+    margin-top: 0;
+    font-size: 32px;
+    color:#104C90;
+}
+
+img{
+    width:450px;
+    height:200px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.para-1{
+    margin-top: 25px;
+    margin-bottom: 9px;
+}
+
+.span-links{
+    color:#FF8000;
+}
+
+a:link, a:visited{
+    color:#FF8000;
+}
